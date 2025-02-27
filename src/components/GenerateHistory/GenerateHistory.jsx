@@ -1,4 +1,3 @@
-import { Scanner } from "@yudiel/react-qr-scanner";
 import { GENERATE_DATA } from "../../constants";
 import s from "./GenerateHistory.module.css";
 import { QRCodeSVG } from "qrcode.react";
