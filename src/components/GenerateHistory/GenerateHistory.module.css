@@ -1,0 +1,12 @@
+.generateHistory {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10;
+}
+.qrWrapper {
+  margin-top: 20px;
+}
+.qrWrapper svg path:last-child {
+  fill: black;
+}
